@@ -1,0 +1,27 @@
+* {
+  background-color: black;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.textbox {
+  margin-top: 150px;
+  margin-left: 600px;
+  margin-right: 500px;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: left;
+}
+.navbar li:hover {
+  background-color: hsl(0, 96%, 49%);
+}
+.navbar a {
+  text-decoration: none;
+}
